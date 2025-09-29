@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Deep Learning-Assisted Dynamic Mode Decomposition (DA-DMD)
 
 ---
