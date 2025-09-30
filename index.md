@@ -8,18 +8,18 @@ title: Home
 ---
 
 ### 🔬 Overview
-**DA-DMD** is a physics-informed framework for **removing non-resonant background (NRB)** in 
+**DA-DMD** is a physics-informed framework currently established for removing non-resonant background (NRB) in 
 Coherent Anti-Stokes Raman Spectroscopy (**CARS**) using:
 
-- **Dynamic Mode Decomposition (DMD):** Unsupervised spectral separation.  
-- **Deep Learning with channel attention + CNN:** Adaptive weighting of DMD modes for robust Raman signal recovery.
+- **Unsupervised DMD:** Hankelized Dynamic Mode Decomposition with 2-class clustering   
+- **DA-DMD:** Deep Learning with channel attention + CNN (Adaptive weighting of DMD modes for robust Raman signal recovery)
 
 ---
 
 ### 📄 Paper
 Our method is described in:  
 **Deep Learning-Assisted Dynamic Mode Decomposition for Non-resonant Background Removal in CARS Spectroscopy**  
-[📥 Download PDF](valapil2025dadmd.pdf)
+[📥 Download PDF](valapil2025dadmd.pdf) (*postprint*)
 
 ---
 
@@ -29,20 +29,22 @@ Implementation available here:
 
 ---
 
-### 📊 Results
-- Removes broadband NRB without reference spectra.  
-- Fast inference (<10 ms per spectrum).  
-- State-of-the-art accuracy on synthetic & real CARS data.  
-
-![DA-DMD Framework](images/da_dmd_framework.png)
-
----
-
 ### 🎥 Video (coming soon!)
 We plan to add a short video introducing DA-DMD.
 
 ---
 
 ### 👥 Authors
-Adithya A.C. Valapil, Carl Messerschmidt, Maha Shadaydeh, Michael Schmitt,  
+Adithya Ashok Chalain Valapil, Carl Messerschmidt, Maha Shadaydeh, Michael Schmitt,  
 Jürgen Popp, Joachim Denzler
+
+**BibTeX:**
+
+```bibtex
+@inproceedings{valapil2025dadmd,
+  title     = {Deep Learning-Assisted Dynamic Mode Decomposition for NRB removal in CARS Spectroscopy},
+  author    = {Adithya Ashok {Chalain Valapil} and Carl Messerschmidt and Maha Shadaydeh and Michael Schmitt and Jürgen Popp and Joachim Denzler},
+  booktitle = {DAGM German Conference on Pattern Recognition (DAGM-GCPR)},
+  year      = {2025}
+}
+```
