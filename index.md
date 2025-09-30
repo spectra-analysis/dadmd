@@ -15,7 +15,7 @@ Coherent Anti-Stokes Raman Spectroscopy (**CARS**) using:
 - **DA-DMD:** Deep Learning with channel attention + CNN (Adaptive weighting of DMD modes for robust Raman signal recovery)
 
 <p align="center">
-  <img src="images/Methods.png" width="800" alt="DA-DMD method">
+  <img src="Teaser_new.png" width="800" alt="Methods for NRB Removal">
   <br>
   <em>DA-DMD method.</em>
 </p>
