@@ -17,7 +17,7 @@ Coherent Anti-Stokes Raman Spectroscopy (**CARS**) using:
 <p align="center">
   <img src="Teaser_new.png" width="800" alt="Methods for NRB Removal">
   <br>
-  <em>DA-DMD method.</em>
+  <em>Methods for NRB Removal.</em>
 </p>
 
 ---
