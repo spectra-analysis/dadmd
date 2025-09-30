@@ -19,6 +19,7 @@ Coherent Anti-Stokes Raman Spectroscopy (**CARS**) using:
 ### 📄 Paper
 Our method is described in:  
 **Deep Learning-Assisted Dynamic Mode Decomposition for Non-resonant Background Removal in CARS Spectroscopy**  
+Proceeding at *DAGM German Conference on Pattern Recognition (GCPR 2025)*  
 [📥 Download PDF](valapil2025dadmd.pdf) (*postprint*)
 
 ---
