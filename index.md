@@ -57,7 +57,6 @@ Jürgen Popp, Joachim Denzler
 ```
 
 ### 🙏 Acknowledgements
-This work is funded by the European Union’s Horizon Europe research and innovation program under Grant Agreement no. 101135175.
-
->For more works visit [Computer Vision Group Jena](https://inf-cv.uni-jena.de/).
+This work is funded by the European Union’s Horizon Europe research and innovation program under Grant Agreement no. 101135175.  
+For more works visit [Computer Vision Group Jena](https://inf-cv.uni-jena.de/).
 
