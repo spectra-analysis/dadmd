@@ -14,6 +14,12 @@ Coherent Anti-Stokes Raman Spectroscopy (**CARS**) using:
 - **Unsupervised DMD:** Hankelized Dynamic Mode Decomposition with 2-class clustering   
 - **DA-DMD:** Deep Learning with channel attention + CNN (Adaptive weighting of DMD modes for robust Raman signal recovery)
 
+<p align="center">
+  <img src="images/Methods.png" width="800" alt="DA-DMD method">
+  <br>
+  <em>DA-DMD method.</em>
+</p>
+
 ---
 
 ### 📄 Paper
